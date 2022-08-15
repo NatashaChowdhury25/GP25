@@ -1,0 +1,110 @@
+.copy_right_footer{
+    position:fixed;
+    color:aliceblue;
+    bottom:0;
+    width:100%;
+    background-color:grey;
+    line-height:3;
+    text-align:center;
+    }
+
+.img2{
+height:500px;
+width: 540px;
+}
+.img2{
+    border: 5px solid black;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 300px;
+    animation-iteration-count: infinite;
+    }
+    @keyframes example{
+    from{box-shadow: 1px 1px 38px rgb(211, 155, 155);}
+    to{box-shadow: 1px 1px 38px rgb(152, 192, 209);}
+    }
+
+
+.img3{
+height:500px;
+width:500px;
+}
+.img3{
+    border: 5px solid black;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 300px;
+    animation-iteration-count: infinite;
+    }
+    @keyframes example{
+    from{box-shadow: 1px 1px 38px rgb(241, 228, 104);}
+    to{box-shadow: 1px 1px 38px rgb(223, 110, 110);}
+    }
+
+.img4{
+height:500px;
+width:500px;
+}
+.img4{
+    border: 5px solid white;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 300px;
+    animation-iteration-count: infinite;
+    }
+    @keyframes example{
+    from{box-shadow: 1px 1px 38px rgb(236, 112, 160);}
+    to{box-shadow: 1px 1px 38px rgb(224, 185, 77);}
+    }
+.img5{
+height:500px;
+width:500px;
+}
+.img5{
+    border: 5px solid white;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 300px;
+    animation-iteration-count: infinite;
+    }
+    @keyframes example{
+    from{box-shadow: 1px 1px 38px rgb(236, 112, 160);}
+    to{box-shadow: 1px 1px 38px rgb(224, 185, 77);}
+    }
+.img6{
+height:500px;
+width:500px
+}
+.img6{
+    border: 5px solid white;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 300px;
+    animation-iteration-count: infinite;
+    }
+    @keyframes example{
+    from{box-shadow: 1px 1px 38px rgb(236, 112, 160);}
+    to{box-shadow: 1px 1px 38px rgb(224, 185, 77);}
+    }
+
+.img7{
+    height:500px;
+    width:570px;
+    }
+    .img7{
+        border: 5px solid white;
+        border-radius: 20px;
+        animation-name: example;
+        animation-duration: 4s;
+        margin-top: 300px;
+        animation-iteration-count: infinite;
+        }
+        @keyframes example{
+        from{box-shadow: 1px 1px 38px rgb(236, 112, 160);}
+        to{box-shadow: 1px 1px 38px rgb(224, 185, 77);}
+        }
